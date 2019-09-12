@@ -282,8 +282,6 @@ int main ()
     DataSet mem;
     LinkedList list;
     MusicClipPtr *ptr;
-    MusicClipPtr b;
-    
     //int i = 0;
     for (int i = 0; i < 10; i++){
         list.add(i);
@@ -447,7 +445,6 @@ int main ()
         }
         
         } while (flag == true);
-    
         
     
    

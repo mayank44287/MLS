@@ -23,6 +23,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		E52B1802219A580900056E9B /* MusicClipPtr.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MusicClipPtr.h; sourceTree = "<group>"; };
+		E52B1803219A589600056E9B /* BandMembers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BandMembers.h; sourceTree = "<group>"; };
+		E52B1804219BDD3D00056E9B /* LinkedList.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LinkedList.h; sourceTree = "<group>"; };
 		E5821A4721990A6D004BAC9D /* MLS */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = MLS; sourceTree = BUILT_PRODUCTS_DIR; };
 		E5821A4A21990A6D004BAC9D /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -58,6 +61,9 @@
 			isa = PBXGroup;
 			children = (
 				E5821A4A21990A6D004BAC9D /* main.cpp */,
+				E52B1802219A580900056E9B /* MusicClipPtr.h */,
+				E52B1803219A589600056E9B /* BandMembers.h */,
+				E52B1804219BDD3D00056E9B /* LinkedList.h */,
 			);
 			path = MLS;
 			sourceTree = "<group>";
